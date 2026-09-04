@@ -4,4 +4,4 @@
 新增导入自定义波形功能
 
 配置教程
-[【二改 dglab vrcosc】视频配置教程（哔哩哔哩）](https://www.bilibili.com/video/BV1hatX6uEbJ/)
+[配置教程](https://xn--3ds605ennfyqa.xn--ihqy95g2xn4po5ua.com/GitHub/DG-LAB-VRCOSC-AI/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91/%E6%95%99%E7%A8%8B/%E6%95%99%E7%A8%8B.mp4)
